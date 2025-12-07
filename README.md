@@ -1,6 +1,3 @@
-# COM3503-3D-Computer-Graphics-
-COM3503 3D Computer Graphics: Assignment
-
 # COM3503-3D-Computer-Graphics
 COM3503 3D Computer Graphics: Assignment 
 
